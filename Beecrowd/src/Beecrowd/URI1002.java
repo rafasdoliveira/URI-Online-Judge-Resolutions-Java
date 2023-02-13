@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class AreaCirculo {
+public class URI1002 {
 
 	public static void main(String[] args) {
 		

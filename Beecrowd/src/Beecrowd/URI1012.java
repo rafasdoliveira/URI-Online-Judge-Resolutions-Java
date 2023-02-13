@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class Area {
+public class URI1012 {
 	
 	public static void main(String[] args) {
 		

@@ -1,10 +1,12 @@
+//Salario com Bonus
+
 package Beecrowd;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class SalarioBonus {
+public class URI1009 {
 	
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

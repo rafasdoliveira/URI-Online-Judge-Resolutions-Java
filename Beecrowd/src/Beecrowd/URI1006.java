@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class Media2 {
+public class URI1006 {
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);

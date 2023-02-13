@@ -1,8 +1,10 @@
+//Calculo Simples
+
 package Beecrowd;
 
 import java.util.Scanner;
 
-public class CalculoSimples {
+public class URI1010 {
 	
 	public static void main(String[] args) {
 		

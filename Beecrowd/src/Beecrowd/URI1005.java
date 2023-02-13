@@ -1,4 +1,4 @@
-//Media 1 (com decimais)
+//Media 1
 
 package Beecrowd;
 
@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class Media1 {
+public class URI1005 {
 
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@ package Beecrowd;
 
 import java.util.Scanner;
 
-public class Diferenca {
+public class URI1007 {
 
 	public static void main(String[] args) {
 		

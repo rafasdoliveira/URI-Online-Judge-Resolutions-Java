@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-public class Esfera {
+public class URI1011 {
 
 	public static void main(String[] args) {
 		

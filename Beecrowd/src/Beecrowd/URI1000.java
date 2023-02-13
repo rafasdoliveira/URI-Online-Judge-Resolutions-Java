@@ -1,7 +1,7 @@
 //Hello World
 
 package Beecrowd;
-public class HelloWorld {
+public class URI1000 {
 
 	public static void main(String[] args) {
 		

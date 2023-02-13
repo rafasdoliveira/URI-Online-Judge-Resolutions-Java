@@ -1,10 +1,10 @@
-//Soma Simples (valores inteiros)
+//Produto simples 
 
 package Beecrowd;
 
 import java.util.Scanner;
 
-public class SomaSimples {
+public class URI1004 {
 
 	public static void main(String[] args) {
 		
@@ -14,9 +14,10 @@ public class SomaSimples {
 		System.out.println("Informe o segundo valor");
 		int B = input.nextInt();
 		
-		int soma = A + B;
-		System.out.println("A soma dos valores é: " + soma);
+		int produto = A * B;
+		System.out.println("O produto dos valores é: " + produto);
 		
 		input.close();
 	}
-}	
+
+}
